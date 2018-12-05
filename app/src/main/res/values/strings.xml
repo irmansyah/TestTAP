@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestTAP</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="gender">
+        <item>MALE</item>
+        <item>FEMALE</item>
+    </string-array>
+</resources>
